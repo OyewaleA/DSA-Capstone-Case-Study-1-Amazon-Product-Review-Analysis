@@ -10,7 +10,7 @@
 
 
 ### 🔧 Tools Used
-‎- Microsoft Excel
+‎- Microsoft Excel [download](https://microsoft-excel.en.softonic.com/download)
 
 ‎- Pivot Tables
 
@@ -66,8 +66,8 @@ The data was cleaned by removing the duplicates and also the null values and som
 ‎- **Discounted items** generally had **higher potential revenue**, possibly due to increased purchases.
 
 ### File Contents
-‎- `GODWIN OYEWALE DSA EXCEL ASSIGNMENT.xlsx`  – Excel workbook with pivot tables and charts.
-
+‎-  [Here](https://github.com/OyewaleA/DSA-Capstone-Case-Study-1-Amazon-Product-Review-Analysis/blob/main/GODWIN%20OYEWALE%20DSA%20EXCEL%20ASSIGNMENT.xlsx
+) is the Excel workbook with pivot tables and charts.
 
 
 ‎
