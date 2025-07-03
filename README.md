@@ -20,33 +20,33 @@
 ‎
 ‎The pivot tables and charts were used to explore:
 
-‎1. The average discount percentage by product category
+‎1. The average discount percentage by product category.
 
-‎2. Number of products are listed under each category
+‎2. Number of products are listed under each category.
 
-‎3. What is the total number of reviews per category
+‎3. What is the total number of reviews per category.
 
-‎4. Products have the highest average ratings
+‎4. Products have the highest average ratings.
 
-‎5. The average actual price vs the discounted price by category
+‎5. The average actual price vs the discounted price by category.
 
-‎6. products have the highest number of reviews
+‎6. Products have the highest number of reviews.
 
-‎7. Number of products with discount of 50% or more
+‎7. Number of products with discount of 50% or more.
 
-‎8. the distribution of product ratings (e.g., how many products are rated 3.0,
-‎4.0, etc.)
+‎8. The distribution of product ratings (e.g., how many products are rated 3.0,
+‎4.0, etc.).
 
-‎9. The total potential revenue (actual_price × rating_count) by category
+‎9. The total potential revenue (actual_price × rating_count) by category.
 
-‎10. the number of unique products per price range bucket (e.g., <₹200,
+‎10. The number of unique products per price range bucket (e.g., <₹200,
 ‎₹200–₹500, >₹500).
 
 ‎11. How does the rating relate to the level of discount?
 
-‎12. products with fewer than 1,000 reviews
+‎12. Products with fewer than 1,000 reviews.
 
-‎13. Categories that has products with the highest discounts
+‎13. Categories that has products with the highest discounts.
 
 ‎14. The top 5 products in terms of rating and number of reviews combined.
 
@@ -66,7 +66,8 @@ The data was cleaned by removing the duplicates and also the null values and som
 ‎- **Discounted items** generally had **higher potential revenue**, possibly due to increased purchases.
 
 ### File Contents
-‎- `GODWIN OYEWALE DSA EXCEL ASSIGNMENT.xlsx` – Excel workbook with pivot tables and charts.
+‎- `GODWIN OYEWALE DSA EXCEL ASSIGNMENT.xlsx`  – Excel workbook with pivot tables and charts.
+
 
 
 ‎
