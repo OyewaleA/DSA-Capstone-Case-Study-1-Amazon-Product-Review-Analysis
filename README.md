@@ -66,10 +66,8 @@ The data was cleaned by removing the duplicates and also the null values and som
 ‎- **Discounted items** generally had **higher potential revenue**, possibly due to increased purchases.
 
 ### File Contents
-‎- `pivot_analysis.xlsx` – Excel workbook with pivot tables and charts.
+‎- `GODWIN OYEWALE DSA EXCEL ASSIGNMENT.xlsx` – Excel workbook with pivot tables and charts.
 
-‎- `screenshots/pivot_charts.png` – (Optional) Preview of the pivot chart(s) created from the analysis.
-‎
-‎## 📌 How to Use
+
 ‎
 ‎
