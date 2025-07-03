@@ -2,6 +2,7 @@
 ## The dataset contains information scraped from Amazon product pages 
 
 ‎## File Contents
+
 ‎
 ‎- `pivot_analysis.xlsx` – Excel workbook with pivot tables and charts.
 ‎- `screenshots/pivot_charts.png` – (Optional) Preview of the pivot chart(s) created from the analysis.
@@ -10,15 +11,19 @@
 ‎## 🗃️ Dataset Description
 ‎
 ‎Each row in the dataset represents a unique Amazon product and includes:
+
 ‎- **Product details**: Name, category, price, discount, rating
 ‎- **Customer engagement**: Review titles and content (aggregated)
-‎- **Format**: Reviewer data stored as comma-separated values within cells
-‎
+‎- **Format**: Reviewer data stored as comma-separated values within cells.
+
+
 ##🔧 Tools Used
 ‎- Microsoft Excel
 ‎- Pivot Tables
 ‎- Pivot Charts
 ‎- Filters and Sorting
+
+
 ‎
 ‎## 📊 Pivot Table Insights
 ‎
